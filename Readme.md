@@ -26,4 +26,4 @@ https://drive.google.com/drive/folders/1FJJYOdIW0oHf_GQ1yY_738YnyC0PgYD5?usp=sha
 
 فایل هایی که شامل ```with-sentiment``` هستند شامل احساسات و فایل هایی که شامل ``with-text`` هستند شامل متن کامل خبر هستند.
 
-![img.png](img.png)
+![img_2.png](img_2.png)
